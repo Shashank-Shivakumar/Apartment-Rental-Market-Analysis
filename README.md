@@ -4,7 +4,8 @@ A comprehensive data analysis project focused on exploring the dynamics of the U
 
 ## 🚀 Project Overview
 This project utilizes a dataset of approximately 100,000 apartment listings across the United States, sourced from the University of California, Irvine (UCI). The goal is to understand the factors influencing rental prices, explore geographical variations, and analyze the impact of amenities on rental costs.
-**Dataset Link**:[Dataset](https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified) 
+
+**Dataset**:[Dataset Link](https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified) 
 
 ## 📊 Key Highlights
 
